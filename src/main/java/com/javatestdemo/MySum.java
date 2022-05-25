@@ -20,7 +20,7 @@ publi class MySum {
 		return c;
 	}
 
-	publi static void main(String[] args) {
+	public static void main(String[] args) {
 		int numbers = Integer.parseInt(args[0]);
 		System.out.println(sumofnumbers(numbers));
 		
