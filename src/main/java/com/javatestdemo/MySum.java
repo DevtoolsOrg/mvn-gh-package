@@ -20,7 +20,7 @@ public class MySum {
 		return c;
 	}
 
-	public static void main(String[] args) {
+	publi static void main(String[] args) {
 		int numbers = Integer.parseInt(args[0]);
 		System.out.println(sumofnumbers(numbers));
 		
